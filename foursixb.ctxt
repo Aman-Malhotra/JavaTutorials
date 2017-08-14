@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=fn\ ln
+comment0.target=foursixb(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getFirst()
+comment2.params=
+comment2.target=java.lang.String\ getLast()
+comment3.params=
+comment3.target=int\ getMembers()
+numComments=4
